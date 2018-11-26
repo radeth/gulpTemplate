@@ -32,6 +32,7 @@
     "run-sequence": "^2.2.1"
   },
   "dependencies": {
+    "aos": "^2.3.4",
     "gulp-htmlmin": "^5.0.1",
     "gulp-uglify-es": "^1.0.4"
   }
